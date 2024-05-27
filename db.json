@@ -1,0 +1,60 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Beef Ribs",
+            "price": "$39.50",
+            "description": "Far far away, behind the word mountains far from the countries Vokalia and Consonantia,there live the blind texts.",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_3.jpg"
+          }, {
+            "id": 2,
+            "name": "Beef With Sausage",
+            "price": "$19.50",
+            "description": "Far far away, behind the word mountains far from the countries Vokalia and Consonantia,there live the blind texts.",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_1.jpg"
+          }, {
+            "id": 3,
+            "name": "Egg with Garlic",
+            "price": "$29.50",
+            "description": "Far far away, behind the word mountains far from the countries Vokalia and Consonantia,there live the blind texts.",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_2.jpg"
+          }, {
+            "id": 4,
+            "name": "Beef Ribs",
+            "price": "$11.50",
+            "description": "Far far away, behind the word mountains far from the countries Vokalia and Consonantia,there live the blind texts.",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_3.jpg"
+          }, {
+            "id": 5,
+            "name": "Beef With Sausace",
+            "price": "$33.50",
+            "description": "Far far away, behind the word mountains far from the countries Vokalia and Consonantia,there live the blind texts.",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_1.jpg"
+          }, {
+            "id": 6,
+            "name": "Fresh Salmon Fish",
+            "price": "$12.50",
+            "description": "Far far away, behind the word mountains far from the countries Vokalia and Consonantia,there live the blind texts.",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_2.jpg"
+          }, {
+            "id": 7,
+            "name": "Beef Ribs",
+            "price": "$53.50",
+            "description": "Far far away, behind the word mountains far from the countries Vokalia and Consonantia,there live the blind texts.",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_3.jpg"
+          }, {
+            "id": 8,
+            "name": "Beef With Sausace",
+            "price": "$22.50",
+            "description": "Far far away, behind the word mountains far from the countries Vokalia and Consonantia,there live the blind texts.",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_1.jpg"
+          }, {
+            "id": 9,
+            "name": "Fresh Salmon Fish",
+            "price": "$39.50",
+            "description": "Far far away, behind the word mountains far from the countries Vokalia and Consonantia,there live the blind texts.",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_2.jpg"
+          }
+          
+    ]
+}
